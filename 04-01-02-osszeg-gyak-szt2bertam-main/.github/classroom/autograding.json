@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "test_osszeg_feladat01.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest teszt/test_osszeg_feladat01.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_osszeg_feladat02.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest teszt/test_osszeg_feladat02.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_osszeg_feladat03.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest teszt/test_osszeg_feladat03.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_osszeg_feladat04.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest teszt/test_osszeg_feladat04.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
